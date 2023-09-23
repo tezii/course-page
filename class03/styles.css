@@ -1,0 +1,60 @@
+* {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.menu {
+    width: 80%;
+    background-color: #e8fffb;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 10000px;
+    color: black;
+  }
+
+.title {
+    color: turquoise;
+    padding: 20px;
+    font-weight: 200;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.urls  {
+    color:fuchsia;
+    font-weight: 200;
+}
+
+.red {
+    color: red;
+    font-weight: 200;
+}
+
+body {
+    background-image: url(./images/galaxybg.jpg);
+}
+
+a {
+    color: fuchsia;
+  }
+  
+  a:visited {
+    color: palevioletred;
+  }
+  
+  a:hover {
+    color: darkcyan;
+  }
+  
+  a:active {
+    color: blueviolet;
+  }
+
+
+  
+/* * {
+    color: red;
+    to select all elements on webpage
+
+} */
